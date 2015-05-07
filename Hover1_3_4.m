@@ -6,7 +6,7 @@
 
 
 %initialization
-close all;
+%close all;
 
 %input variables for discretisation 
 R=10;
